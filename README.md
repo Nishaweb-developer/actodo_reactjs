@@ -8,7 +8,7 @@
 5. [How to Use](#how-to-use)
 6. [Future Improvements](#future-improvements)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
@@ -53,9 +53,4 @@ Follow these steps to set up the project on your local machine:
 Contributions are welcome! If you'd like to enhance the project, feel free to submit a pull request.  
 For major changes, please open an issue first to discuss what you'd like to change.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 
----
-
-Let me know if you'd like help customizing the file further or adding deployment details. 😊
