@@ -3,7 +3,7 @@
 A lightweight task management app with user login, persistent tasks, and a live dashboard header. Originally built in vanilla JS, rebuilt in React.
 
 ## Live Demo
-[Add your Vercel URL here]
+[https://actodo-reactjs.vercel.app/]
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
